@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406786883 source:h:\codeblocks\dsa\single-linked-lists\simple\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

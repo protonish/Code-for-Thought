@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405953367 source:h:\codeblocks\dsa\insertionsort\main.cpp
+	<iostream>
+	<cmath>
+

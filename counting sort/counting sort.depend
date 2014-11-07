@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408279073 source:h:\codeblocks\dsa\counting sort\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cstdio>
+
