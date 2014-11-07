@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1407472855 source:h:\codeblocks\topcoder-arena-practice rooms\practice\code\binarycode\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+
