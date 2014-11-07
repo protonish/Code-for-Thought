@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402325501 source:c:\users\nish_vit\documents\c-code\codeblocks\love letter mystery\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
