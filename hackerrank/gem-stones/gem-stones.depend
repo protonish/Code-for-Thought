@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408280595 source:h:\codeblocks\hck\gem-stones\main.cpp
+	<iostream>
+	<cstring>
+

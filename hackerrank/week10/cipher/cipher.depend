@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1410346330 source:h:\codeblocks\hck\week10\cipher\main.cpp
+	<iostream>
+	<bitset>
+	<algorithm>
+	<cmath>
+	<cstring>
+

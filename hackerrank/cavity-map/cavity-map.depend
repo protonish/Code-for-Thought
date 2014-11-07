@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408358834 source:h:\codeblocks\hck\cavity-map\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

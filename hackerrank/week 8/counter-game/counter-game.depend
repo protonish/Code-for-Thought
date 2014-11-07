@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407238158 source:h:\codeblocks\hck\week 8\counter-game\main.cpp
+	<iostream>
+	<cmath>
+

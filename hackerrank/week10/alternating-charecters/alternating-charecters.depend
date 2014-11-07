@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410289885 source:h:\codeblocks\hck\week10\alternating-charecters\main.cpp
+	<iostream>
+	<vector>
+
